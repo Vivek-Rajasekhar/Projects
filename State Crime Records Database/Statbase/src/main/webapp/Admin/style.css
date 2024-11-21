@@ -1,0 +1,27 @@
+.pagination li a{
+	font-size: 20px;
+	padding-left: 4rem;
+	}
+
+.i{
+	font-size: 20px;
+}
+
+.navbar-brand{
+	font-size: 30px;
+}
+
+.navbar .nav-item:hover .nav-link{
+	border-radius: 15px;
+	background-color: white;
+	color: #3B71CA;
+}
+
+section{
+	margin-top: 7px;
+}
+
+.features h1{
+	color: #2C3E50;
+}
+
