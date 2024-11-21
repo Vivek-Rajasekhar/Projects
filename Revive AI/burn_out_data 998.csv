@@ -1,0 +1,999 @@
+Stress Level,Mood Rating,Sleep Quality,Energy Level,Work Hours Per Day,Job Satisfaction,Workload Intensity,Break Frequency,Overtime Frequency,Role Clarity,Autonomy in Work
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Somewhat Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Low,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Poor,High,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Negative,Good,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Low,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Poor,High,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Negative,Good,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Low,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Poor,High,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Negative,Good,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Low,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Poor,High,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Negative,Good,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Low,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Poor,High,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Negative,Good,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,Occasional,Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,Occasional,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Low
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Clear,High
+High,Positive,Average,Moderate,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Neutral,Average,Moderate,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Neutral,Poor,Low,Overworking,Dissatisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,Moderate,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Negative,Good,Low,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,Low,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Normal,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Moderate,Positive,Good,Low,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,Low,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+High,Positive,Poor,Moderate,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Positive,Good,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Positive,Good,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Moderately Balanced,Occasional,Very Clear,High
+Moderate,Negative,Good,High,Normal,Neutral,Low,Balanced,Occasional,Very Clear,Moderate
+Low,Positive,Poor,Moderate,Low,Very Satisfied,Moderate,Moderately Balanced,None,Somewhat Clear,High
+High,Negative,Average,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Extended,Very Satisfied,Moderate,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+High,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Extended,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Moderately Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Moderate,Positive,Poor,Low,Overworking,Neutral,Moderate,Low Balance,Occasional,Unclear,Low
+Low,Negative,Average,High,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Moderate,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Moderate,Positive,Poor,Low,Overworking,Neutral,Moderate,Low Balance,Occasional,Unclear,Low
+Low,Negative,Average,High,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Moderate,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,Moderate,Low Balance,Frequent,Unclear,Low
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Poor,Low,Overworking,Very Satisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Poor,Low,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Overworking,Very Satisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Poor,Low,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Poor,Low,Overworking,Very Satisfied,Moderate,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Normal,Dissatisfied,Low,Balanced,None,Somewhat Clear,Moderate
+Moderate,Positive,Poor,Low,Extended,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Low,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,High,Extended,Very Satisfied,Low,Balanced,Frequent,Unclear,Low
+Low,Negative,Poor,Low,Overworking,Neutral,Low,Balanced,Occasional,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Moderate,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+Moderate,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Overworking,Neutral,Low,Balanced,Occasional,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Moderate,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+Moderate,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Overworking,Neutral,Low,Balanced,Occasional,Very Clear,High
+High,Positive,Good,Moderate,Normal,Dissatisfied,Moderate,Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+Moderate,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Overworking,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Negative,Poor,Low,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Very Clear,Low
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Extended,Neutral,Low,Balanced,Frequent,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,Low,Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Moderate,Negative,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Balanced,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Low Balance,Frequent,Somewhat Clear,Moderate
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Negative,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Negative,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Very Satisfied,High,Balanced,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Low Balance,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Average,Moderate,Extended,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Moderate
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Neutral,Moderate,None,Constant,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Constant,Unclear,Low
+Low,Positive,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+High,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+High,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Neutral,Average,Moderate,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Moderate,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Low Balance,Occasional,Somewhat Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Average,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Extended,Neutral,High,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Negative,Average,Moderate,Extended,Neutral,High,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Overworking,Neutral,High,Low Balance,Frequent,Unclear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Neutral,Average,Moderate,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Neutral,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Somewhat Clear,Moderate
+High,Positive,Good,High,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,Low,Normal,Neutral,Low,Moderately Balanced,None,Somewhat Clear,Moderate
+Moderate,Positive,Good,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,High
+Low,Neutral,Poor,Low,Normal,Very Satisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Somewhat Clear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,None,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Normal,Neutral,Low,Low Balance,None,Very Clear,High
+Moderate,Positive,Good,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,High
+Low,Negative,Average,Low,Normal,Very Satisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Somewhat Clear,Low
+High,Positive,Average,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Positive,Good,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Somewhat Clear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Negative,Average,Low,Normal,Neutral,Low,Low Balance,None,Very Clear,High
+Moderate,Positive,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Somewhat Clear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Average,Moderate,Overworking,Neutral,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Positive,Good,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Positive,Average,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Somewhat Clear,Low
+Low,Positive,Good,High,Low,Neutral,Low,Balanced,None,Very Clear,High
+High,Positive,Average,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Positive,Good,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Negative,Average,Low,Extended,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Neutral,Moderate,Balanced,None,Very Clear,Moderate
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Average,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Somewhat Clear,Low
+Low,Positive,Average,Moderate,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+High,Positive,Good,High,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Low Balance,None,Very Clear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+High,Positive,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Unclear,Low
+Low,Negative,Average,Moderate,Normal,Dissatisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Very Clear,Moderate
+High,Positive,Average,Moderate,Overworking,Very Satisfied,High,Moderately Balanced,Frequent,Unclear,Moderate
+Low,Negative,Average,Moderate,Normal,Dissatisfied,Low,Balanced,None,Very Clear,Moderate
+Moderate,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,None,Very Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Very Clear,Moderate
+High,Positive,Good,Moderate,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Low,Negative,Poor,Low,Normal,Neutral,Low,Low Balance,Occasional,Unclear,Low
+Moderate,Positive,Average,High,Overworking,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Unclear,Low
+High,Positive,Average,High,Extended,Neutral,High,Balanced,Frequent,Very Clear,High
+Low,Negative,Poor,Low,Normal,Very Satisfied,Low,Low Balance,Occasional,Unclear,Low
+Moderate,Positive,Good,High,Overworking,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Unclear,Low
+High,Positive,Average,High,Extended,Neutral,High,Balanced,Frequent,Very Clear,High
+Low,Negative,Poor,Low,Normal,Very Satisfied,Low,Low Balance,Occasional,Unclear,Low
+Moderate,Positive,Good,High,Overworking,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Unclear,Low
+High,Positive,Average,High,Extended,Neutral,High,Balanced,Frequent,Very Clear,High
+Low,Negative,Poor,Low,Normal,Very Satisfied,Low,Low Balance,Occasional,Unclear,Low
+Moderate,Positive,Good,High,Overworking,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,None,Unclear,Low
+High,Positive,Average,High,Extended,Neutral,High,Balanced,Frequent,Very Clear,High
+Low,Negative,Poor,Low,Normal,Very Satisfied,Low,Low Balance,Occasional,Unclear,Low
+Moderate,Positive,Good,High,Overworking,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Low,Normal,Neutral,High,Moderately Balanced,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Neutral,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Low,Normal,Neutral,High,Moderately Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Negative,Poor,Low,Normal,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Negative,Average,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Neutral,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Negative,Good,Low,Normal,Neutral,High,Moderately Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Neutral,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Low,Negative,Average,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+Moderate,Negative,Good,Low,Normal,Neutral,High,Moderately Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Neutral,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Somewhat Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Moderately Balanced,Occasional,Clear,High
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Negative,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Moderate,Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Extended,Neutral,High,Moderately Balanced,Frequent,Somewhat Clear,Moderate
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Moderate,Positive,Average,Moderate,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Negative,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Somewhat Clear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Average,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Clear,Moderate
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Neutral,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Clear,Moderate
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Poor,Low,Extended,Dissatisfied,High,Moderately Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Low,Normal,Dissatisfied,Moderate,Low Balance,Occasional,Clear,Moderate
+Low,Positive,Good,High,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Moderate,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+High,Positive,Average,Moderate,Overworking,Neutral,Moderate,Balanced,Frequent,Clear,Moderate
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,Occasional,Very Clear,High
+Moderate,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+High,Negative,Poor,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Clear,Moderate
+Low,Positive,Average,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Clear,Moderate
+Low,Positive,Average,Moderate,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Clear,Moderate
+Moderate,Positive,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Low,Positive,Average,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+Moderate,Negative,Poor,Low,Extended,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Low,Positive,Good,High,Normal,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Clear,Moderate
+Moderate,Positive,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Very Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Dissatisfied,High,Low Balance,Occasional,Unclear,Moderate
+Low,Positive,Average,Moderate,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,High,Low Balance,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Poor,Low,Overworking,Dissatisfied,Moderate,Low Balance,Frequent,Clear,Moderate
+Moderate,Positive,Good,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Negative,Poor,Low,Normal,Dissatisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Average,Moderate,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Good,High,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Negative,Poor,Low,Low,Very Satisfied,Low,Low Balance,None,Very Clear,High
+High,Positive,Average,Moderate,Extended,Dissatisfied,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Average,High,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Poor,Low,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,High,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Poor,Low,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Negative,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Extended,Dissatisfied,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Poor,Low,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Poor,Low,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Negative,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Extended,Dissatisfied,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Balanced,None,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Negative,Good,Moderate,Extended,Dissatisfied,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Positive,Poor,Low,Normal,Neutral,Low,Balanced,Occasional,Clear,Moderate
+Low,Negative,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Balanced,None,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Balanced,None,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Moderate,Balanced,Occasional,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Balanced,None,Clear,Moderate
+Low,Positive,Average,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Good,Moderate,Extended,Neutral,High,Balanced,Frequent,Somewhat Clear,Low
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Moderately Balanced,Occasional,Unclear,Low
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Moderate
+Moderate,Negative,Poor,Low,Normal,Neutral,Low,Balanced,Occasional,Clear,High
+Low,Positive,Good,High,Low,Very Satisfied,Low,Balanced,None,Very Clear,High
+High,Positive,Average,Moderate,Extended,Neutral,High,Low Balance,Frequent,Somewhat Clear,Low
